@@ -1,0 +1,19 @@
+Looks like Oracle's continued push for Java everywhere, from the "Internet of things" on down, isn't just based on hype. At least one set of numbers puts Java's performance head and shoulders above that of the competition for server-side Web frameworks. But is performance alone enough to win over the non-Java faithful?
+deathmatch 5 battle fight contest arm wrestle challenge
+Review: WebEx and GoToMeeting meet their match
+
+Adobe Connect and Zoom lead six mostly stellar Web conferencing services for desktops and mobile devices
+Read Now
+
+Since March 2013, software development firm TechEmpower has been running an ongoing series of performance benchmarks for dozens of popular Web application server frameworks, such as Ruby on Rails or Django. Each successive round of tests has benefited from community feedback, with the benchmarks themselves released as open source on GitHub. Those interested in having their own frameworks benchmarked can fork the code, add their own tests, and submit the results.
+
+When the seventh round of TechEmpower benchmarking concluded at the end of October -- with 84 frameworks and some 200 different test permutations -- the dust settled to reveal that many of the frameworks that performed best across the board were Java-based. Four frameworks in particular stand out: Gemini, Grizzly (created to allow easy use of Java's New I/O API), Undertow, and Vertx.
+ADVERTISING
+
+What's most striking is how many of the frameworks that are better known -- such as Sinatra for Ruby, various ASP.Net frameworks, and the aforementioned Django for Python -- had performance that ranked sometimes orders of magnitude below the big winners. The new kid on the block, Node.js, did exhibit impressive performance, but still only clocked one-fourth to one-third the performance of the fastest contenders.
+
+Oracle's been beating the Java drum quite loudly of late as a one-size-fits-all solution to -- well, everything, but definitely as a solution for building robust Web services. Its plans for Java 8 involve unifying Java's various editions to make it easier to write code across both embedded devices and servers -- which, if the ARM-in-the-server contingent has its way, may come to resemble each other more. And one of the biggest Java-related pushes is Project Avatar, a JavaScript and HTML5 services layer for Java that works with -- guess what? -- Grizzly.
+
+If Grizzly and the rest of its Java framework brethren are indeed performing so well, does this mean everyone should ditch their current frameworks and rewrite everything in Java? Probably not. As much as Oracle would like to think otherwise, developers choose a given framework for plenty of reasons other than raw performance. Ease of development, time to release, developer affinity, and third-party community involvement are all at least as crucial. Random example: CakePHP may have fared poorly in the TechEmpower race, along with CodeIgniter and Symfony, but PHP and its frameworks run some 35 percent of the Web.
+
+Java frameworks may have the raw performance that Oracle wants to brag about. But the rest of the frameworks have the developer base, the penetration, the loyalty -- and maybe the lack of the feeling that Oracle's peeking over their shoulders.
